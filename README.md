@@ -18,3 +18,7 @@ git clone https://github.com/kkelchte/simulation_supervised
 cd ~/simsup_ws && catkin_make
 ```
 
+You will have to set the correct path to your tensorflow pilot_online package.
+
+In case you are using different drone models, you will have to adjust the [config.yaml](https://github.com/kkelchte/simulation-supervised/blob/master/simulation_supervised/config/sim_drone.yaml) file in order to set the correct rosparams.
+
