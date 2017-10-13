@@ -1,4 +1,4 @@
-# simulation-supervised ()
+# simulation-supervised
 
 The simulation-supervised package combines different sets of code needed to train a DNN policy to fly a drone.
 
